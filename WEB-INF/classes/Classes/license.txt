@@ -1,0 +1,38 @@
+
+################################################################################################################################
+LEGAL LICENSE FOR ppl2.0 : Constituency Management System 
+Home Page: http://ppl2point0.sourceforge.net
+ 
+This product (idea, code, methods) is licensed under a dual license - GNU GPL v3 License and the Creative Commons License v2.5
+under the strict attributes of by-nc-nd, implying that the code is 'open source' and a 'freeware' as stated and termed under the
+GNU GPL v3 License - however the license strictly follows the Creative Commons v2.5 License with regards to - 
+ 
+1. by - meaning, at all times and in all mediums the attribution for the work is to be rightfully given and limited to the 
+following persons in the stated format.
+
+-Start of Format-
+ 
+Ravi Mangal (ravi9788@gmail.com)
+Mini Nair (mini.nair07@gmail.com)
+Dhairya Dand (dhairyadand@gmail.com)
+Anuja Pol (anujapol@gmail.com)
+ 
+-End of Format- 
+ 
+2. nc - meaning, the code is to be strictly used for non-commercial purposes - no income in whatsoever format could be earned by 
+using, selling, deploying or with any activity related to this work. However, under the permission of the owners
+(names and contacts as stated above), one may be permitted to gain financially under the sole directions and authority of the owners.
+ 
+3. nd- meaning, no derivatives of this work are allowed in any format whatsoever. The current trunk of the work is to be considered
+ as the sole version the work.
+ 
+It is hereby stated that the above license can change without any notice to the user of this work, the copy of the license found at
+the project home page as stated in the header is to be treated as the official and abiding license.
+ 
+It is hereby declared with full legal agreement of the user of this work, that any non-compliance of a part or full of the above license
+can result into severe criminal prosecution in a court of law.
+The GNU GPL v3 License is to be read at : http://www.gnu.org/licenses/gpl-3.0.html
+The Creative Commons v2.5 License is to be reat at : http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+ 
+It is assumed legally that you have read and agreed to the above licenses before referring to or using the work in any form whatsoever.
+
